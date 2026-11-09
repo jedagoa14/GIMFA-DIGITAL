@@ -1,0 +1,5 @@
+window.GIMFA_CONFIG = {
+  supabaseUrl: 'PEGA_AQUI_URL_SUPABASE',
+  supabaseAnonKey: 'PEGA_AQUI_CLAVE_PUBLICABLE',
+  institutionName: 'GIMNASIO MILITAR FAC TC. FLAVIO ANGULO PIEDRAHITA'
+};
